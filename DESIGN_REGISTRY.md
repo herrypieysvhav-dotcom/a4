@@ -1,25 +1,39 @@
-# Design Registry: dragonfruitjoy
+# Dragonfruit Joy Design Registry
 
-## Layout & Archetype Specification
-- **Archetype Name:** Neo-Tropical Botanical & Electric Magenta / Dragon Scale Emerald (`neo_tropical_pitaya`)
-- **Visual Personality:** Lush neo-tropical culinary botanicals, electric magenta-pink glow, deep dragon-scale emerald undertones, volcanic obsidian backdrop, crisp typography.
-- **Header Structure:** Sticky glassmorphism header with `.site-header`, brand badge `BOTANICAL 100%`, and synchronized `#mobile-drawer`.
-- **Primary Typography:** `Syne` (Headings & Titles, 700/800)
-- **Secondary Typography:** `Urbanist` (Body Prose, 400/500/600)
-- **Monospace Typography:** `Space Mono` (Nutritional telemetry & badges)
+## Architectural Profile
+- **Domain:** `dragonfruitjoy`
+- **Archetype Name:** Neo-Tropical Pitaya Obsidian (`pitaya_obsidian_glow`)
+- **Category / Niche:** Organic Hylocereus Cultivars, Cold-Pressed Raw Pitaya Nectars & Botanical Gastronomy
+- **Page Structure (No Blog Configuration):**
+  - `index.html` (Atelier & Specimen Showcase)
+  - `about.html` (Hylocereus Lineage & Nocturnal Pollination)
+  - `services.html` (Artisanal Nectars, Powder & Harvest Crates)
+  - `contact.html` (Tasting Salon Inquiries & Reservations)
+  - `faq.html` (Botanical & Brix Refractive FAQ)
+  - `privacy-policy.html` (Calibrated Legal)
+  - `terms-and-conditions.html` (Calibrated Legal)
+  - `disclaimer.html` (Calibrated Legal)
+  - `cookie-policy.html` (Calibrated Legal)
+  - `assets/css/style.css`
+  - `assets/js/main.js`
+  - `assets/images/` (20 authentic local images >20KB each, 1-to-1 mapped)
 
-## Color Palette Tokens
-- **Volcanic Obsidian:** `#090d10` (Body base background)
-- **Cactus Night Dark:** `#10171a` (Section alt backgrounds)
-- **Flora Dark Card:** `#172225` (Cards, surfaces)
-- **Electric Magenta:** `#f43f5e` (Primary brand accent, glowing highlights)
-- **Magenta Bright:** `#fb7185` (Hover & secondary brand highlights)
-- **Dragon Scale Emerald:** `#10b981` / `#34d399` (Horticultural accents)
-- **Blossom Cream:** `#fdf2f8` (Main headings & high-contrast text)
-- **Silver Mist:** `#94a3b8` (Body prose)
+## Color Palette
+- **Deep Volcanic Obsidian Base (`--color-bg-deep`):** `#090d10`
+- **Cactus Night Secondary (`--color-bg-night`):** `#10171a`
+- **Pitaya Card Surface (`--color-surface-card`):** `#172225`
+- **Electric Magenta Glow (`--color-magenta-glow`):** `#fb7185`
+- **Crimson Betacyanin (`--color-magenta`):** `#f43f5e`
+- **Dragon Scale Emerald (`--color-emerald`):** `#10b981`
+- **Blossom Cream Text (`--color-blossom-cream`):** `#fdf2f8`
+- **Muted Slate Body (`--color-text-muted`):** `#94a3b8`
 
-## Institutional Standards
+## Typography Pairings
+- **Display / Headings:** `Syne` (Bold botanical geometric display)
+- **Body Prose:** `Urbanist` (Modern, ultra-readable humanist grotesque)
+- **Monograph & Telemetry Labels:** `Space Mono` (Scientific agricultural monospace)
+
+## Mandatory Contact Coordinates
 - **Address:** 181 Mercer Street, New York, NY 10012, United States
-- **Phone:** +1-888-777-5845
-- **Google Analytics ID:** G-0LY0HY7L01
-- **Compliance:** 100% Static HTML, Zero PHP, Zero Google Ads Prohibited Niches.
+- **Telephone:** +1-888-777-5845
+- **Google Analytics:** `G-0LY0HY7L01`
